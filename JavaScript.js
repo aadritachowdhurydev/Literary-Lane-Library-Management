@@ -74,9 +74,9 @@ var books = [
     },
     {
         id: "B109",
-        title: "The Shock Doctrine: The Rise of Disaster Capitalism",
-        author: "Naomi Klein",
-        genre: "Non-fiction",
+        title: "The Unexpected Guest",
+        author: "Agatha Christie",
+        genre: "Mystery, Thriller",
         total: 3,
         available: 3,
         cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3RIN-GoI1dyXlj5NYiLXEFYNzzEVm7874T-6_24uwJEjbj8F3_slxWDc&s=10"
@@ -101,9 +101,9 @@ var books = [
     },
     {
         id: "B112",
-        title: "The Unexpected Guest",
-        author: "Agatha Christie",
-        genre: "Mystery",
+        title: "Rich Dad Poor Dad",
+        author: "Robert Kiyosaki",
+        genre: "Self Help, Non-Fiction",
         total: 3,
         available: 3,
         cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPETvQ5jlQlF7KVP0HSI53pJCJ8oHbIp4Ju-t8eRVgQQ&s=10"
